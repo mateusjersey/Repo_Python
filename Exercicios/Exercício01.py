@@ -1,4 +1,4 @@
-nome = input("Escreve seu Nome: ")
+nome = input("Escreve seu nome: ")
 print(nome)
 
 nome = nome.upper()
